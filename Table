@@ -1,0 +1,4 @@
+| Button   | GPIO Input | LED1 | LED2 | Observation                           |
+| :------: | :--------: | :--: | :--- | :------------------------------------ |
+| Released | HIGH       | OFF  | ON   | LED 2 is on while LED 1 is off.       |
+| Pressed  | LOW        | ON   | OFF  | LED 1 turns on while LED 2 turns off. |
